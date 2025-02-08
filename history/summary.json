@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nirnay.io.ico",
     "slug": "nirnay-ap-is",
     "status": "down",
-    "uptime": "8.82%",
-    "uptimeDay": "8.82%",
-    "uptimeWeek": "8.82%",
-    "uptimeMonth": "8.82%",
-    "uptimeYear": "8.82%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 585,
     "timeDay": 585,
     "timeWeek": 585,
     "timeMonth": 585,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-02-08": 0
+      "2025-02-08": 16
     }
   }
 ]
