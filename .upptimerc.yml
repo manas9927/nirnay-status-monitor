@@ -10,16 +10,20 @@ sites:
 
 
 status-website:
+  name: Nirnay Status Monitor
   baseUrl: /nirnay-status-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://cdn.nirnay.io/Nirnay_Logo_-_small/b48c868c6f924a82b0a05ca5d262b9c31fa72bc32bf8403dbe7707be343.webp
   introTitle: "**Nirnay** is a suite of tools to simplify hiring for companies without a dedicated hiring team."
   introMessage: This is a status monitor page for application and services running for **Nirnay**
+  theme: light
   navbar:
-    - title: Status
-      href: /
     - title: Nirnay
       href: https://nirnay.io/
+    - title: Status Monitor
+      href: /
+
+i18n:
+  footer: Visit [nirnay.io](https://nirnay.io/) to know more.
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
