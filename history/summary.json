@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1428,
-    "timeDay": 1428,
-    "timeWeek": 1428,
-    "timeMonth": 1428,
-    "timeYear": 1428,
+    "time": 2120,
+    "timeDay": 2120,
+    "timeWeek": 2120,
+    "timeMonth": 2120,
+    "timeYear": 2120,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nirnay.io.ico",
     "slug": "nirnay-ap-is",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 865,
-    "timeDay": 865,
-    "timeWeek": 865,
-    "timeMonth": 865,
-    "timeYear": 865,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 966,
+    "timeDay": 966,
+    "timeWeek": 966,
+    "timeMonth": 966,
+    "timeYear": 966,
     "dailyMinutesDown": {
-      "2025-02-08": 236
+      "2025-02-09": 69,
+      "2025-02-08": 933
     }
   }
 ]
